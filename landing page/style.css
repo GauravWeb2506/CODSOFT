@@ -1,0 +1,57 @@
+.navbar
+{
+	list-style-type:none;
+	display:flex;
+	background-color:black;
+	padding:0px;
+	margin:0px;
+	overflow:hidden;
+	
+	
+}
+a
+{
+	color:white;
+	padding:70px;
+	font-size:30;
+	text-decoration:none;
+}
+.Active
+{
+	background-color:blue;
+}
+li a:hover
+{
+ background-color:blue;
+} 
+img
+{
+	float:right;
+}
+h1
+{
+	padding-top:70px;
+	font-size:80px;
+	color:red;
+	letter-spacing:5px;
+	
+}
+p
+{
+	font-size:20;
+	text-align:justify;	
+    font-family:arial black;
+}
+button
+{
+	background-color:red;
+	color:white;
+	border:none;
+    font-size:25;
+	border-radius:12px;
+}
+button:hover
+{
+	background-color:yellow;
+}
+	
